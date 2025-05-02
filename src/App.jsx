@@ -1,4 +1,4 @@
-import Tooltip from "./components/tooltip.jsx"
+import Tooltip from "./components/Tooltip"
 
 function App() {
   
